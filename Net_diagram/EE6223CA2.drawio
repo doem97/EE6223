@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T14:33:59.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="zNBILW0GKQMETiO0XWRe" version="14.5.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-04-07T14:46:21.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="rYbG8F6JOv6tkd9OBAWk" version="14.5.8" type="github" pages="5">
   <diagram id="vLaXbmM3Hhi-dTC1wAEd" name="Building Scale">
-    <mxGraphModel dx="1673" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="GMtj8rT2Yxm4aSxBWJuz-0" />
         <mxCell id="GMtj8rT2Yxm4aSxBWJuz-1" parent="GMtj8rT2Yxm4aSxBWJuz-0" />
@@ -362,7 +362,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6zIxw2Hyg6dfomCNbsjq" name="Plant and Foundry">
-    <mxGraphModel dx="1422" dy="5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="-52" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="RAIZJpcT9ia0xnAVukXc-0" />
         <mxCell id="RAIZJpcT9ia0xnAVukXc-1" parent="RAIZJpcT9ia0xnAVukXc-0" />
@@ -382,7 +382,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-RvLXp1pWWfajbZVR07f-28" value="" style="group" parent="RAIZJpcT9ia0xnAVukXc-1" vertex="1" connectable="0">
-          <mxGeometry x="200" y="1400" width="360" height="120" as="geometry" />
+          <mxGeometry x="200" y="1400" width="360" height="120.0016956521738" as="geometry" />
         </mxCell>
         <mxCell id="3fsoEWonqgJnVwwGpHkL-3" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fillColor=#d5e8d4;fontSize=12;opacity=70;strokeColor=none;" parent="-RvLXp1pWWfajbZVR07f-28" vertex="1">
           <mxGeometry x="-20" y="-10" width="380" height="130" as="geometry" />
@@ -390,20 +390,20 @@
         <mxCell id="-RvLXp1pWWfajbZVR07f-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/705_Automation_factory_hand_mechanism_package-128.png;shadow=0;dashed=0;fillColor=#E6E6E6;fontColor=#FFFFFF;" parent="-RvLXp1pWWfajbZVR07f-28" vertex="1">
           <mxGeometry width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-RvLXp1pWWfajbZVR07f-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/705_Automation_factory_hand_mechanism_package-128.png;shadow=0;dashed=0;fillColor=#E6E6E6;fontColor=#FFFFFF;" parent="-RvLXp1pWWfajbZVR07f-28" vertex="1">
-          <mxGeometry x="80" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="-RvLXp1pWWfajbZVR07f-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/705_Automation_factory_hand_mechanism_package-128.png;shadow=0;dashed=0;fillColor=#E6E6E6;fontColor=#FFFFFF;" parent="-RvLXp1pWWfajbZVR07f-28" vertex="1">
           <mxGeometry x="240" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-RvLXp1pWWfajbZVR07f-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/705_Automation_factory_hand_mechanism_package-128.png;shadow=0;dashed=0;fillColor=#E6E6E6;fontColor=#FFFFFF;" parent="-RvLXp1pWWfajbZVR07f-28" vertex="1">
           <mxGeometry x="160" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3fsoEWonqgJnVwwGpHkL-4" value="&lt;font style=&quot;background-color: rgb(255 , 255 , 255)&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;VLAN: Group B&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;labelBackgroundColor=#ffffff;" parent="-RvLXp1pWWfajbZVR07f-28" vertex="1">
-          <mxGeometry x="250.00113702623912" y="90.0016956521738" width="100" height="20" as="geometry" />
+        <mxCell id="3fsoEWonqgJnVwwGpHkL-4" value="&lt;font style=&quot;background-color: rgb(255 , 255 , 255)&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;VLAN: &lt;br&gt;Facility Group&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;labelBackgroundColor=#ffffff;" parent="-RvLXp1pWWfajbZVR07f-28" vertex="1">
+          <mxGeometry x="250.00113702623912" y="80.0016956521738" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-RvLXp1pWWfajbZVR07f-27" value="Manufacturing Facility" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;labelBackgroundColor=#ffffff;" parent="-RvLXp1pWWfajbZVR07f-28" vertex="1">
           <mxGeometry x="90" y="79.54999999999995" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-RvLXp1pWWfajbZVR07f-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/705_Automation_factory_hand_mechanism_package-128.png;shadow=0;dashed=0;fillColor=#E6E6E6;fontColor=#FFFFFF;" parent="-RvLXp1pWWfajbZVR07f-28" vertex="1">
+          <mxGeometry x="80" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="40vxavE0q52EdHZP9TQ0-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=12;fontColor=#000000;strokeColor=#FF8000;strokeWidth=2;" parent="RAIZJpcT9ia0xnAVukXc-1" source="m4dTVVSOKDjZEtIVwKJh-0" target="40vxavE0q52EdHZP9TQ0-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -492,26 +492,6 @@
         <mxCell id="mWCPWzIxvP0kutCIwYGv-11" value="Logical VPN Connection" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;" parent="mWCPWzIxvP0kutCIwYGv-0" vertex="1">
           <mxGeometry x="98.99999999999997" y="130" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-RvLXp1pWWfajbZVR07f-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=12;fontColor=#000000;" parent="RAIZJpcT9ia0xnAVukXc-1" source="m4dTVVSOKDjZEtIVwKJh-0" target="-RvLXp1pWWfajbZVR07f-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="479.3697940503433" y="1223" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-RvLXp1pWWfajbZVR07f-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=12;fontColor=#000000;" parent="RAIZJpcT9ia0xnAVukXc-1" source="m4dTVVSOKDjZEtIVwKJh-0" target="-RvLXp1pWWfajbZVR07f-19" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="489.07231121281467" y="1223" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-RvLXp1pWWfajbZVR07f-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=12;fontColor=#000000;" parent="RAIZJpcT9ia0xnAVukXc-1" source="m4dTVVSOKDjZEtIVwKJh-0" target="-RvLXp1pWWfajbZVR07f-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="498.77482837528606" y="1223" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-RvLXp1pWWfajbZVR07f-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=12;fontColor=#000000;" parent="RAIZJpcT9ia0xnAVukXc-1" source="m4dTVVSOKDjZEtIVwKJh-0" target="-RvLXp1pWWfajbZVR07f-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="508.47734553775746" y="1223" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vnIVXOKVOxg8UwXb7cvk-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#FF8000;strokeWidth=2;exitX=0.98;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="RAIZJpcT9ia0xnAVukXc-1" source="m4dTVVSOKDjZEtIVwKJh-0" target="vnIVXOKVOxg8UwXb7cvk-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -530,8 +510,8 @@
         <mxCell id="RPgtPNgpf2uLghUG7uce-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#000000;strokeWidth=1;fontColor=#000000;" parent="RAIZJpcT9ia0xnAVukXc-1" source="vnIVXOKVOxg8UwXb7cvk-0" target="RPgtPNgpf2uLghUG7uce-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RPgtPNgpf2uLghUG7uce-3" value="&lt;font style=&quot;background-color: rgb(255 , 255 , 255)&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;VLAN: Group A&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;labelBackgroundColor=#ffffff;" parent="RAIZJpcT9ia0xnAVukXc-1" vertex="1">
-          <mxGeometry x="192.4063017730384" y="1149.6516956521739" width="100" height="20" as="geometry" />
+        <mxCell id="RPgtPNgpf2uLghUG7uce-3" value="&lt;font style=&quot;background-color: rgb(255 , 255 , 255)&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;VLAN:&lt;br&gt;&lt;div&gt;&lt;b&gt;Surveillance Group&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;labelBackgroundColor=#ffffff;" parent="RAIZJpcT9ia0xnAVukXc-1" vertex="1">
+          <mxGeometry x="199.9963017730384" y="1142.0016956521738" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RPgtPNgpf2uLghUG7uce-4" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;fontSize=12;fontColor=#000000;" parent="RAIZJpcT9ia0xnAVukXc-1" vertex="1">
           <mxGeometry x="219.9960326086956" y="1255.15" width="37.20000000000001" height="35.400000000000006" as="geometry" />
@@ -593,11 +573,29 @@
         <mxCell id="1MxvUE7uG66Ad9kFWABK-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/construction-293/32/Construction_constructor_hat_helmet_protection_worker-128.png;fillColor=#E6E6E6;fontSize=12;fontColor=#000000;" parent="RAIZJpcT9ia0xnAVukXc-1" vertex="1">
           <mxGeometry x="906" y="1421.45" width="49" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="gfqRhCFQRdkBZW6nVYV3-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FF0000;endArrow=none;endFill=0;" edge="1" parent="RAIZJpcT9ia0xnAVukXc-1" source="gfqRhCFQRdkBZW6nVYV3-0" target="m4dTVVSOKDjZEtIVwKJh-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gfqRhCFQRdkBZW6nVYV3-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontColor=#FF0000;dashed=1;strokeWidth=2;" edge="1" parent="RAIZJpcT9ia0xnAVukXc-1" source="gfqRhCFQRdkBZW6nVYV3-0" target="-RvLXp1pWWfajbZVR07f-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gfqRhCFQRdkBZW6nVYV3-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontColor=#FF0000;dashed=1;strokeWidth=2;" edge="1" parent="RAIZJpcT9ia0xnAVukXc-1" source="gfqRhCFQRdkBZW6nVYV3-0" target="-RvLXp1pWWfajbZVR07f-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gfqRhCFQRdkBZW6nVYV3-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontColor=#FF0000;dashed=1;strokeWidth=2;" edge="1" parent="RAIZJpcT9ia0xnAVukXc-1" source="gfqRhCFQRdkBZW6nVYV3-0" target="-RvLXp1pWWfajbZVR07f-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gfqRhCFQRdkBZW6nVYV3-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontColor=#FF0000;dashed=1;strokeWidth=2;" edge="1" parent="RAIZJpcT9ia0xnAVukXc-1" source="gfqRhCFQRdkBZW6nVYV3-0" target="-RvLXp1pWWfajbZVR07f-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gfqRhCFQRdkBZW6nVYV3-0" value="6LoWPan Router" style="shape=mxgraph.cisco.routers.wireless_router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;labelBackgroundColor=#ffffff;fontSize=12;fontColor=#000000;" vertex="1" parent="RAIZJpcT9ia0xnAVukXc-1">
+          <mxGeometry x="535" y="1283.3999999999999" width="50" height="57.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="cpmZCC5Oprr2ZXbexLu2" name="RDC">
-    <mxGraphModel dx="1422" dy="5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="-52" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="uzLA5QX6dGq-AKEPzL09-0" />
         <mxCell id="uzLA5QX6dGq-AKEPzL09-1" parent="uzLA5QX6dGq-AKEPzL09-0" />
@@ -622,8 +620,8 @@
         <mxCell id="JKYLaqoofUDc7rcCDnns-12" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;fillColor=#dae8fc;fontSize=12;opacity=70;strokeColor=#FF0000;" parent="uzLA5QX6dGq-AKEPzL09-1" vertex="1">
           <mxGeometry x="846.3" y="898.7" width="160" height="178" as="geometry" />
         </mxCell>
-        <mxCell id="JKYLaqoofUDc7rcCDnns-13" value="&lt;b&gt;VLAN: Group C (Need VPN)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=#ffffff;" parent="uzLA5QX6dGq-AKEPzL09-1" vertex="1">
-          <mxGeometry x="828" y="899" width="170" height="20" as="geometry" />
+        <mxCell id="JKYLaqoofUDc7rcCDnns-13" value="&lt;b&gt;VLAN:&lt;br&gt;Security Work Group&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=#ffffff;" parent="uzLA5QX6dGq-AKEPzL09-1" vertex="1">
+          <mxGeometry x="856.3" y="902.7" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKOOLPWBtXEluYSXQ1Ge-14" value="" style="group" parent="uzLA5QX6dGq-AKEPzL09-1" vertex="1" connectable="0">
           <mxGeometry x="190" y="1440" width="360" height="140" as="geometry" />
@@ -634,8 +632,8 @@
         <mxCell id="UmpknB4mM6dv-x1jonzb-1" value="Foundry Control Centre" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;labelBackgroundColor=#ffffff;fillColor=#E6E6E6;fontSize=12;fontColor=#000000;" parent="PKOOLPWBtXEluYSXQ1Ge-14" vertex="1">
           <mxGeometry x="131.2" y="10" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="PKOOLPWBtXEluYSXQ1Ge-20" value="&lt;font style=&quot;background-color: rgb(255 , 255 , 255)&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;VLAN: Group B&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;labelBackgroundColor=#ffffff;" parent="PKOOLPWBtXEluYSXQ1Ge-14" vertex="1">
-          <mxGeometry x="60.00113702623911" y="110.0016956521738" width="100" height="20" as="geometry" />
+        <mxCell id="PKOOLPWBtXEluYSXQ1Ge-20" value="&lt;b&gt;VLAN:&amp;nbsp;&lt;br&gt;Facility Group&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;labelBackgroundColor=#ffffff;" parent="PKOOLPWBtXEluYSXQ1Ge-14" vertex="1">
+          <mxGeometry x="60.00113702623911" y="105.0016956521738" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2I7SPlQqBjEWn6ZdRsQT-11" value="Foundry Monitor" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/IP_TV.svg;labelBackgroundColor=#ffffff;fillColor=#E6E6E6;fontSize=12;fontColor=#000000;" parent="PKOOLPWBtXEluYSXQ1Ge-14" vertex="1">
           <mxGeometry x="20" y="21.70000000000009" width="49.199999999999996" height="50.4" as="geometry" />
@@ -801,8 +799,8 @@
         <mxCell id="j8oJ3JueoRFll1rhwUHG-0" value="POE Switch Router&lt;br&gt;1Gbps/10Gbps" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;labelBackgroundColor=#ffffff;" parent="uzLA5QX6dGq-AKEPzL09-1" vertex="1">
           <mxGeometry x="400" y="1191" width="101" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DywPEPtaeExcg18AdxtG-3" value="&lt;font style=&quot;background-color: rgb(255 , 255 , 255)&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;VLAN: Group A&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;labelBackgroundColor=#ffffff;" parent="uzLA5QX6dGq-AKEPzL09-1" vertex="1">
-          <mxGeometry x="182.4063017730384" y="1133.0516956521737" width="100" height="20" as="geometry" />
+        <mxCell id="DywPEPtaeExcg18AdxtG-3" value="&lt;b style=&quot;text-align: left&quot;&gt;VLAN:&lt;br&gt;&lt;div&gt;&lt;b&gt;Surveillance Group&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;labelBackgroundColor=#ffffff;" parent="uzLA5QX6dGq-AKEPzL09-1" vertex="1">
+          <mxGeometry x="167.4063017730384" y="1128.0516956521737" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DywPEPtaeExcg18AdxtG-4" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;fontSize=12;fontColor=#000000;" parent="uzLA5QX6dGq-AKEPzL09-1" vertex="1">
           <mxGeometry x="209.9960326086956" y="1238.55" width="37.20000000000001" height="35.400000000000006" as="geometry" />
@@ -873,14 +871,14 @@
         <mxCell id="2I7SPlQqBjEWn6ZdRsQT-13" value="Video Conference &amp;amp; Design Server&lt;br&gt;(Encrypted)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;labelBackgroundColor=#ffffff;" parent="vGmyYpGahynu5idJg-cL-13" vertex="1">
           <mxGeometry x="30" y="108" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_eqKx9DpVrF572wAnKCA-0" value="&lt;b&gt;VLAN: Group C (Need VPN)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=#ffffff;" parent="vGmyYpGahynu5idJg-cL-13" vertex="1">
-          <mxGeometry x="45" y="148" width="170" height="20" as="geometry" />
+        <mxCell id="_eqKx9DpVrF572wAnKCA-0" value="&lt;b&gt;VLAN:&lt;br&gt;Security Work Group&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=#ffffff;" parent="vGmyYpGahynu5idJg-cL-13" vertex="1">
+          <mxGeometry x="60" y="143" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Nzpy52RFB5wY9vJfqAbn" name="Administrator Building">
-    <mxGraphModel dx="1422" dy="5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="-52" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="BJuQSa_UwCPsbTage6PU-0" />
         <mxCell id="BJuQSa_UwCPsbTage6PU-1" parent="BJuQSa_UwCPsbTage6PU-0" />
@@ -1082,8 +1080,8 @@
         <mxCell id="Ra9d1gFitnQrmyRqMjTd-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=12;fontColor=#000000;dashed=1;strokeWidth=2;" parent="BJuQSa_UwCPsbTage6PU-1" source="Ra9d1gFitnQrmyRqMjTd-26" target="Ra9d1gFitnQrmyRqMjTd-28" edge="1">
           <mxGeometry x="670" y="1152.5" as="geometry" />
         </mxCell>
-        <mxCell id="Ra9d1gFitnQrmyRqMjTd-33" value="Non-critical Public Network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;labelBackgroundColor=#ffffff;fontStyle=1" parent="BJuQSa_UwCPsbTage6PU-1" vertex="1">
-          <mxGeometry x="800" y="1152.5" width="170" height="20" as="geometry" />
+        <mxCell id="Ra9d1gFitnQrmyRqMjTd-33" value="Non-critical Public Network (Wireless)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;labelBackgroundColor=#ffffff;fontStyle=1" parent="BJuQSa_UwCPsbTage6PU-1" vertex="1">
+          <mxGeometry x="749" y="1152.5" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ra9d1gFitnQrmyRqMjTd-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=12;fontColor=#000000;" parent="BJuQSa_UwCPsbTage6PU-1" source="Ra9d1gFitnQrmyRqMjTd-23" target="Ra9d1gFitnQrmyRqMjTd-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1107,10 +1105,10 @@
           <mxGeometry x="740" y="1282.2" width="50" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="Ra9d1gFitnQrmyRqMjTd-54" value="Encrypted In-office Server &amp;amp; Computer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;labelBackgroundColor=#ffffff;" parent="BJuQSa_UwCPsbTage6PU-1" vertex="1">
-          <mxGeometry x="725" y="1509.9987640449438" width="220" height="20" as="geometry" />
+          <mxGeometry x="726" y="1505.9987640449438" width="220" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ra9d1gFitnQrmyRqMjTd-55" value="&lt;b&gt;VLAN: Group C (Need VPN)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=#ffffff;" parent="BJuQSa_UwCPsbTage6PU-1" vertex="1">
-          <mxGeometry x="750" y="1536.9640449438202" width="170" height="20" as="geometry" />
+        <mxCell id="Ra9d1gFitnQrmyRqMjTd-55" value="&lt;b&gt;VLAN:&lt;br&gt;Security Work Group&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=#ffffff;" parent="BJuQSa_UwCPsbTage6PU-1" vertex="1">
+          <mxGeometry x="765" y="1529.9640449438202" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xorjEvLRfhijkcpKGZ41-0" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;labelBackgroundColor=#ffffff;fontColor=#FF8000;" parent="BJuQSa_UwCPsbTage6PU-1" vertex="1">
           <mxGeometry x="755.7" y="1440" width="54.3" height="54.3" as="geometry" />
@@ -1124,14 +1122,14 @@
         <mxCell id="9arfCHW1LlX4nxCGmjPT-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/construction-293/32/Construction_constructor_hat_helmet_protection_worker-128.png;fillColor=#E6E6E6;fontSize=12;fontColor=#000000;" parent="BJuQSa_UwCPsbTage6PU-1" vertex="1">
           <mxGeometry x="921" y="1286.45" width="49" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="Ra9d1gFitnQrmyRqMjTd-1" value="&lt;b&gt;VLAN: Group C (Need VPN)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=#ffffff;" parent="BJuQSa_UwCPsbTage6PU-1" vertex="1">
-          <mxGeometry x="790" y="902.7" width="170" height="20" as="geometry" />
+        <mxCell id="Ra9d1gFitnQrmyRqMjTd-1" value="&lt;b&gt;VLAN:&lt;br&gt;Security Work Group&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=#ffffff;" parent="BJuQSa_UwCPsbTage6PU-1" vertex="1">
+          <mxGeometry x="833" y="910" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ra9d1gFitnQrmyRqMjTd-59" value="Work from Home" style="shape=mxgraph.cisco.people.androgenous_person;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;labelBackgroundColor=#ffffff;" parent="BJuQSa_UwCPsbTage6PU-1" vertex="1">
-          <mxGeometry x="860" y="930.4000000000001" width="69" height="82" as="geometry" />
+          <mxGeometry x="867.35" y="950.7" width="69" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="Ra9d1gFitnQrmyRqMjTd-4" value="&lt;font style=&quot;background-color: rgb(255 , 255 , 255)&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;VLAN: Group A&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;labelBackgroundColor=#ffffff;" parent="BJuQSa_UwCPsbTage6PU-1" vertex="1">
-          <mxGeometry x="192.4063017730384" y="1117.5016956521738" width="100" height="20" as="geometry" />
+        <mxCell id="Ra9d1gFitnQrmyRqMjTd-4" value="&lt;b style=&quot;text-align: left&quot;&gt;VLAN:&lt;br&gt;&lt;div&gt;&lt;b&gt;Surveillance Group&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;labelBackgroundColor=#ffffff;" parent="BJuQSa_UwCPsbTage6PU-1" vertex="1">
+          <mxGeometry x="177.4063017730384" y="1112.5016956521738" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ra9d1gFitnQrmyRqMjTd-7" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;fontSize=12;fontColor=#000000;" parent="BJuQSa_UwCPsbTage6PU-1" vertex="1">
           <mxGeometry x="219.9960326086956" y="1223" width="37.20000000000001" height="35.400000000000006" as="geometry" />
@@ -1152,13 +1150,13 @@
           <mxGeometry x="286.01" y="1270" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="i1jmTbfRxJnBSrhr6MtA-15" value="Surveillance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#000000;labelBackgroundColor=#ffffff;" parent="BJuQSa_UwCPsbTage6PU-1" vertex="1">
-          <mxGeometry x="231.3" y="1298.15" width="80" height="20" as="geometry" />
+          <mxGeometry x="231.3" y="1295.15" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Hn6YnlvIQ0r_7LaAQYbj" name="Server Farm">
-    <mxGraphModel dx="1422" dy="5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="-52" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="hWqjjMXpDKOYIAjPgIfB-0" />
         <mxCell id="hWqjjMXpDKOYIAjPgIfB-1" parent="hWqjjMXpDKOYIAjPgIfB-0" />
@@ -1324,8 +1322,8 @@
         <mxCell id="ALZRM8BbOBqBnR4vzs1L-0" value="POE Switch Router&lt;br&gt;1Gbps/10Gbps" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;labelBackgroundColor=#ffffff;" parent="hWqjjMXpDKOYIAjPgIfB-1" vertex="1">
           <mxGeometry x="492.8" y="1267" width="101" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DYKPWedDQtZ95CWZaOnw-13" value="&lt;b&gt;VLAN: Group C (Need VPN)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=#ffffff;" parent="hWqjjMXpDKOYIAjPgIfB-1" vertex="1">
-          <mxGeometry x="788.8" y="1049.05" width="170" height="20" as="geometry" />
+        <mxCell id="DYKPWedDQtZ95CWZaOnw-13" value="&lt;b&gt;VLAN:&lt;br&gt;Security Work Group&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;labelBackgroundColor=#ffffff;" parent="hWqjjMXpDKOYIAjPgIfB-1" vertex="1">
+          <mxGeometry x="803.8" y="1044.05" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DYKPWedDQtZ95CWZaOnw-15" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_EoR.svg;labelBackgroundColor=#ffffff;fontColor=#FF8000;" parent="hWqjjMXpDKOYIAjPgIfB-1" vertex="1">
           <mxGeometry x="891.1199999999999" y="900" width="51.16" height="103.4" as="geometry" />
@@ -1366,8 +1364,8 @@
         <mxCell id="u3sGWROmZGs2DPctiDAY-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/construction-293/32/Construction_constructor_hat_helmet_protection_worker-128.png;fillColor=#E6E6E6;fontSize=12;fontColor=#000000;" parent="hWqjjMXpDKOYIAjPgIfB-1" vertex="1">
           <mxGeometry x="941" y="1261.45" width="49" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="hWqjjMXpDKOYIAjPgIfB-22" value="&lt;font style=&quot;background-color: rgb(255 , 255 , 255)&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 12px&quot;&gt;VLAN: Group A&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;labelBackgroundColor=#ffffff;" parent="hWqjjMXpDKOYIAjPgIfB-1" vertex="1">
-          <mxGeometry x="889.9954507050634" y="1420.0024021739132" width="100" height="20" as="geometry" />
+        <mxCell id="hWqjjMXpDKOYIAjPgIfB-22" value="&lt;b style=&quot;text-align: left&quot;&gt;VLAN:&lt;br&gt;&lt;div&gt;&lt;b&gt;Surveillance Group&lt;/b&gt;&lt;/div&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=12;fontColor=#000000;labelBackgroundColor=#ffffff;" parent="hWqjjMXpDKOYIAjPgIfB-1" vertex="1">
+          <mxGeometry x="874.9954507050634" y="1415.0024021739132" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IN_OdNyddotsiPPOo2Y0-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="hWqjjMXpDKOYIAjPgIfB-1" source="_6DmonuuYlYoVJyoNn88-5" target="_6DmonuuYlYoVJyoNn88-6" edge="1">
           <mxGeometry x="331" y="1390" as="geometry" />
